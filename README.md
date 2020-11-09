@@ -39,7 +39,7 @@
 3.gemをアプリケーションに適用<br>
 `$ bundle install`<br>
 
-4.DBの作成&反映<br>
+4.データベースの作成&反映<br>
 `$ rails db:create`<br>
 `$ rails db:migrate`<br>
 
@@ -47,7 +47,7 @@
 `$ rails s`<br>
 :point_right:`http://localhost:3000`
 
-## :globe_with_meridians: データベース設計
+## :page_facing_up: データベース設計
 ### tasksテーブル
 |Column|Type|Options|
 |------|----|-------|
