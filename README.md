@@ -22,7 +22,7 @@
 - ソースコード管理: Github
 - コードレビューツール: Sider　Rubocop
 - デプロイ: heroku 
-    - https://fierce-mountain-70409.herokuapp.com/
+    - https://fierce-mountain-70409.herokuapp.com
 
 ## :globe_with_meridians: データベース設計
 ### tasksテーブル
