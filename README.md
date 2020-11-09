@@ -1,8 +1,11 @@
 <h1 align="center">タスク管理アプリ（TODO-app）</h1>
 
-## :globe_with_meridians: タスク管理アプリ（TODO-app）とは
+## :globe_with_meridians: TODO-appとは
 - railsのscaffold試用アプリケーションです。
 - 実施したいことを登録することで、登録したタスクをリスト管理できます。
+- 登録したタスクは詳細表示をすることができます。
+- 登録したタスクは編集（内容の変更）をすることができます。
+- 登録したタスクは削除することができます。
 
 ## :globe_with_meridians: 使用した技術、言語、ツールなど
 <a><img src="https://user-images.githubusercontent.com/39142850/71774533-1ddf1780-2fb4-11ea-8560-753bed352838.png" width="70px;" /></a> <!-- rubyのロゴ -->
