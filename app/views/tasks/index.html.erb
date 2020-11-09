@@ -1,6 +1,9 @@
 <p id="notice"><%= notice %></p>
 
-<h1>Tasks</h1>
+<h1 id="title">Tasks</h1>
+
+<!-- scaffoldで自動生成したformを呼び出し -->
+<%= render 'form', task: @task %>
 
 <table>
   <thead>
@@ -10,7 +13,8 @@
     </tr>
   </thead>
 
-  <tbody>
+  <!-- jQueryでDOMを取得できるようidを付与 -->
+  <tbody id="task-list">
     <% @tasks.each do |task| %>
       <tr>
         <td><%= task.title %></td>
