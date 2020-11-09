@@ -5,6 +5,8 @@ class TasksController < ApplicationController
   # GET /tasks.json
   def index
     @tasks = Task.all
+    # _form.html.erbで使用する変数を定義
+    @task  = Task.new
   end
 
   # GET /tasks/1
