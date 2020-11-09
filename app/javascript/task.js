@@ -18,7 +18,14 @@ $(document).ready(function() {
       dataType: 'json'
     // ⑤リクエストに成功した場合 .done以下の関数が実行される。
     }).done(function(data){
-      console.log(data)
+      $('#task-list').append( 
+        `<tr>
+          <td>
+            ${data.title}
+          </td>
+        </tr>`
+      )
     })
+    $('#task_title').val('')
   })
 })
