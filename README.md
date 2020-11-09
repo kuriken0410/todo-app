@@ -1,6 +1,6 @@
-<h1 align="center">タスク管理アプリ（TODO-app）</h1>
+<h1 align="center">タスク管理アプリ（Todo-app）</h1>
 
-## :globe_with_meridians: TODO-appとは
+## :globe_with_meridians: Todo-appとは
 - タスク管理アプリケーションです。
 - 実施したいことを登録することで、登録したタスクをリスト管理できます。
 
