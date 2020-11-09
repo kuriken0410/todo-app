@@ -34,9 +34,6 @@
 ### ■ データベース
 * PostgreSQL 1.2.3
 
-### ■ インフラ
-* AWS S3
-
 ### ■ デプロイ
 * heroku
 * https://comfy-kuri.herokuapp.com
