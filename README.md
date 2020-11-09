@@ -36,7 +36,7 @@
 
 ### ■ デプロイ
 * heroku
-* https://comfy-kuri.herokuapp.com
+* https://fierce-mountain-70409.herokuapp.com
 
 ### ■ コードレビューツール
 * Sider
