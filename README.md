@@ -1,10 +1,10 @@
 <h1 align="center">タスク管理アプリ（TODO-app）</h1>
 
-![キャプチャ動画](https://i.gyazo.com/e694393c1e8bc3587e10a13e8ebf5155.gif)
-
 ## :globe_with_meridians: TODO-appとは
 - railsのscaffold試用アプリケーションです。
 - 実施したいことを登録することで、登録したタスクをリスト管理できます。
+
+![キャプチャ動画](https://i.gyazo.com/e694393c1e8bc3587e10a13e8ebf5155.gif)
 
 ## :globe_with_meridians: 機能一覧
 - 実施したいタスクの登録機能。
