@@ -18,16 +18,32 @@
 <a><img src="https://user-images.githubusercontent.com/39142850/71774618-b32edb80-2fb5-11ea-9050-d5929a49e9a5.png" height="60px;" /></a> <!-- Hamlのロゴ -->
 <a><<img src="https://user-images.githubusercontent.com/39142850/71774644-115bbe80-2fb6-11ea-822c-568eabde5228.png" height="60px" /></a> <!-- Scssのロゴ -->
 <a><img src="https://user-images.githubusercontent.com/39142850/71774768-d064a980-2fb7-11ea-88ad-4562c59470ae.png" height="65px;" /></a> <!-- jQueryのロゴ -->
+### ■ 言語
 
-- 言語
-    - サーバーサイド: Ruby
-    - フロント: SASS, HTML (HAML), JavaScript (jQuery)
-- アプリケーションフレームワーク: Ruby on Rails
-- データベース: PostgreSQL
-- ソースコード管理: Github
-- コードレビューツール: Sider　Rubocop
-- デプロイ: heroku 
-    - https://fierce-mountain-70409.herokuapp.com
+#### バックエンド
+* Ruby 2.6.5
+
+#### フロントエンド
+* Haml 5.1.2
+* Sass 2.4.0
+* jquery-rails 4.4.0
+
+### ■ フレームワーク
+* Ruby on Rails 6.0.3.4
+
+### ■ データベース
+* PostgreSQL 1.2.3
+
+### ■ インフラ
+* AWS S3
+
+### ■ デプロイ
+* heroku
+* https://comfy-kuri.herokuapp.com
+
+### ■ コードレビューツール
+* Sider
+* Rubocop 0.92.0
 
 ## :globe_with_meridians: インストール方法
 1.このリポジトリを複製<br>
