@@ -32,10 +32,10 @@
 * Ruby on Rails 6.0.3.4
 
 ### ■ データベース
-* PostgreSQL 1.2.3
+* PostgreSQL 13.0
 
 ### ■ デプロイ
-* heroku
+* heroku 7.47.0
 * https://fierce-mountain-70409.herokuapp.com
 
 ### ■ コードレビューツール
