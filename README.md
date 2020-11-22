@@ -63,5 +63,5 @@
 ## :page_facing_up: データベース設計
 ### tasksテーブル
 |Column|Type|Options|
-|------|----|-------|
+|:------:|----|-------|
 |title|string||
