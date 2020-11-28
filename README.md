@@ -44,7 +44,7 @@
 
 ## :globe_with_meridians: インストール方法
 1.このリポジトリを複製<br>
-`$ git clone https://github.com/kuriken0410/todo-app`
+`$ git clone https://github.com/kuriken0410/todo-app.git`
 
 2.インストールしたリポジトリに移動<br>
 `$ cd todo-app`
